@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amalitica
+- 👋 Hi, I’m @Adan Chuc
 - 👀 I’m interested in ...creating AI that provides value for people. 
 - 🌱 I’m currently learning ... Master in AI & Data Science
 - 💞️ I’m looking to collaborate on ... projects that bring value to people by using AI. 

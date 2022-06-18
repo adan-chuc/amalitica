@@ -2,7 +2,7 @@
 - Este es un conjunto de análisis y predicciones que ayudan a crecer ecommerce. 
 
 - Las diferentes estrategias se dividen en:
-- 1. SEO
+- 1. SEO: Mejores Keywords y Predicción de tendencias positivas
 - 2. Predicciones de tráfico y Convertion rate
 - 3. Análisis descriptivo: ¿qué canal puede crecer el ecommerce?
 - 4. Mapa de empatía: ¿Cómo es mi usuario? ¿En donde vive? ¿Qué celular usa?

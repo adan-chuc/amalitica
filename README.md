@@ -1,4 +1,4 @@
-- Marketing Predictivo para Shopify
+- Marketing Predictivo para Shopify.
 - Este es un conjunto de análisis y predicciones que ayudan a crecer ecommerce. 
 
 - Las diferentes estrategias se dividen en:
